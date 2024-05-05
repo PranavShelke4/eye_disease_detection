@@ -1,0 +1,79 @@
+.App {
+  background-color: rgba(248, 250, 255, 1);
+  height: 100%;
+  padding: 0.5% 1%;
+}
+
+.ml-module {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 3%;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.Project-title {
+  text-align: center;
+}
+
+.uploaded_img {
+  width: 20rem;
+}
+
+.upload_section {
+  box-shadow: rgba(183, 146, 231, 0.2) 0px 8px 24px;
+  background-color: white;
+  padding: 2%;
+  text-align: center;
+} 
+
+input {
+  margin-top: 2%;
+  margin-left: 25%;
+  margin-bottom: 5%;
+  cursor: pointer;
+}
+
+.Analyze_btn {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  width: 10rem;
+  cursor: pointer;
+}
+
+.image-preview {
+  width: 10rem;
+  height: 10rem;
+}
+
+.result_section {
+  box-shadow: rgba(183, 146, 231, 0.2) 0px 8px 24px;
+  background-color: #f3f7fd;
+  padding: 2%;
+}
+
+
+.external-content{
+  padding: 2% 3%;
+}
+
+.content{
+    width: 100%;
+}
+
+li{
+  margin-bottom: 2%;
+}
+
+.uploaded_img_preview{
+  width: 10rem;
+  display: block;
+  margin: auto;
+}
